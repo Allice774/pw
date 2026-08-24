@@ -1,0 +1,6 @@
+/* Clean layout wrapper styles for App component if needed */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
